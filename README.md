@@ -1,5 +1,5 @@
 # DevOps CI/CD Pipeline Project
-
+![Architecture Diagram](architecture.png)
 ## Overview
 A complete end-to-end DevOps project featuring a Python Flask To-Do API, 
 fully automated CI/CD pipeline, containerization, and Kubernetes deployment.
